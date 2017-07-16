@@ -7,11 +7,22 @@ Hello world
 https://www.edureka.co/my-course/git-github?course=228
 Hi ashok how r u?
 Im fine
+<<<<<<< HEAD
+9912016769
+
+
+7095504444
+
+=======
 
 Hi goud
 hi
 hi
 hi goud
 hi goud
+<<<<<<< HEAD
 
 Hi keshava
+=======
+>>>>>>> 165aa3ffc7e6d220976b963dee6d918230074c10
+>>>>>>> 875b396bf6e9ccb735080cfacd514addb64cf84f
