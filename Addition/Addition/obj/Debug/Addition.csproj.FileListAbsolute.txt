@@ -4,3 +4,9 @@ D:\Git\New folder\Addition\Addition\bin\Debug\Addition.pdb
 D:\Git\New folder\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
 D:\Git\New folder\Addition\Addition\obj\Debug\Addition.exe
 D:\Git\New folder\Addition\Addition\obj\Debug\Addition.pdb
+D:\Git1\MyFirstProject\Addition\Addition\bin\Debug\Addition.exe.config
+D:\Git1\MyFirstProject\Addition\Addition\obj\Debug\Addition.exe
+D:\Git1\MyFirstProject\Addition\Addition\obj\Debug\Addition.pdb
+D:\Git1\MyFirstProject\Addition\Addition\bin\Debug\Addition.exe
+D:\Git1\MyFirstProject\Addition\Addition\bin\Debug\Addition.pdb
+D:\Git1\MyFirstProject\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
