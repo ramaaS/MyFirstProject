@@ -15,6 +15,8 @@ namespace Addition
             Console.WriteLine(c);
             c = a - b;
             Console.WriteLine(c);
+            c = a * b;
+            Console.WriteLine(c);
             Console.ReadKey();
             
         }
