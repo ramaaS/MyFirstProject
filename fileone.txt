@@ -1,2 +1,23 @@
-Hi this is ashok goud keshamoni
-how r u?
+Hi this is ashok goud keshamoni 1785
+how r u? 101785
+Mallishwari
+<<<<<<< HEAD
+Fhidha 9:54 PM
+=======
+Shamanthaka mani :9:46 PM
+>>>>>>> 04321c6eca5456580985a01fd2dcd32dd5978002
+Ashok 11:40PM 
+<<<<<<< HEAD
+Ashok Goud :11:50 PM
+=======
+Keshamoni :11:52 PM
+>>>>>>> 06520088fa144b0543458c148d71d1ac95f1d3c7
+<<<<<<< HEAD LEG
+good Morning
+=======
+Good Evening
+>>>>>>> 0d02f28004f400fe6bdd7380c69636f8ce240ca8
+pilla nv leni jivitham
+hello
+hello
+hi
