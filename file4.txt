@@ -8,6 +8,10 @@ https://www.edureka.co/my-course/git-github?course=228
 Hi ashok how r u?
 Im fine
 <<<<<<< HEAD
+hi
+Hi ashok goud keshamoni
+=======
+<<<<<<< HEAD
 9912016769
 
 
@@ -59,3 +63,4 @@ hi
 
 Shiva
 >>>>>>> e5cfb09e3f6a48acc599ba1bc40fa93a6eef074e
+>>>>>>> f0c3abf312748efa374478811a009e7ad9502126
