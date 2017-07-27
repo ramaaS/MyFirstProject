@@ -15,6 +15,8 @@ namespace Addition
             d = a - b;
             e = a / b;
             Console.WriteLine("{0} {1} {2}",c,d,e);
+            swithcase obj = new swithcase();
+            obj.Switch();
             Console.ReadKey();
             
         }
