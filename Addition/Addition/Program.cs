@@ -10,12 +10,13 @@ namespace Addition
     {
         static void Main(string[] args)
         {
-            int a = 10, b = 20, c,d,e,f;
+            int a = 10, b = 20, c,d,e,f,g;
             c = a + b;
             d = a - b;
             e = a / b;
             f = a * b;
-            Console.WriteLine("{0} {1} {2} {3}",c,d,e,f);
+            g = a + b;
+            Console.WriteLine("{0} {1} {2} {3} {4}",c,d,e,f,g);
             swithcase obj = new swithcase();
             obj.Switch();
             Console.ReadKey();
