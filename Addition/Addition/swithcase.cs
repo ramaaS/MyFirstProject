@@ -10,13 +10,14 @@ namespace Addition
     {
         public void Switch()
         {
-            int a, b,c,d;
+            int a, b,c,d,e;
             Console.WriteLine("Enter the values for A and B");
             a=int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
             c = a + b;
             d = a - b;
-            Console.WriteLine("{0},{1}",c,d);
+            e = a * b;
+            Console.WriteLine("{0},{1} {2}",c,d,e);
         }
         
     }
