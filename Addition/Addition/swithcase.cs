@@ -18,7 +18,7 @@ namespace Addition
             d = a - b;
             e = a * b;
             f = a / b;
-            Console.WriteLine("{0},{1} {2} {3}",c,d,e,f);
+            Console.WriteLine("{0},{1} {2} {3} : goud :",c,d,e,f);
         }
         
     }
