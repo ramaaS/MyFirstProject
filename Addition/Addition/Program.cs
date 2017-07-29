@@ -15,7 +15,8 @@ namespace Addition
             d = a - b;
             e = a / b;
             f = a * b;
-            Console.WriteLine("keshamoni goud:{0} {1} {2} {3} {4}",c,d,e,f);
+            Console.WriteLine("keshamoni ashok keshava goud:{0} {1} {2} {3} {4}",c,d,e,f);
+            Console.WriteLine("Ashok goud");
             swithcase obj = new swithcase();
             obj.Switch();
             Console.ReadKey();
